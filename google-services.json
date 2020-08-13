@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "661232819006",
+    "firebase_url": "https://where-s-quarry.firebaseio.com",
+    "project_id": "where-s-quarry",
+    "storage_bucket": "where-s-quarry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661232819006:android:a90a1ebbbb25fbf9f7aa6f",
+        "android_client_info": {
+          "package_name": "com.wu.where_is_quarry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661232819006-102k0cotq8s6sc8bp4hka60bjphcg9l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQlmKHNSMo5LT9oMJO-uplwDM95MRCboo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661232819006-102k0cotq8s6sc8bp4hka60bjphcg9l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
